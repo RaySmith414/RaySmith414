@@ -49,3 +49,4 @@ With extensive experience in security operations and incident response, I am com
 ## Projects
 - <a href="https://github.com/RaySmith414/Detection-Lab">Detection Lab</a>
 - <a href="https://github.com/RaySmith414/SOC-Automation-Lab">SOC Automation Lab</a>
+- <a href="https://github.com/RaySmith414/Automated-Compliance-Scanner">Automated Compliance Scanner</a>
