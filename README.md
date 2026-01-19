@@ -17,6 +17,10 @@ With extensive experience in security operations and incident response, I am com
 | Incident Response Planning and Execution      | <a href="https://github.com/RaySmith414/SOC-Automation-Lab">SOC Automation Lab</a>|
 | Case Management with TheHive                  | <a href="https://github.com/RaySmith414/SOC-Automation-Lab">SOC Automation Lab</a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/RaySmith414/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Python Security Tool Development              | <a href="https://github.com/RaySmith414/Automated-Compliance-Scanner">Automated Compliance Scanner</a>|
+| CIS Benchmark and NIST 800-53 Compliance      | <a href="https://github.com/RaySmith414/Automated-Compliance-Scanner">Automated Compliance Scanner</a>|
+| Automated Security Assessment                 | <a href="https://github.com/RaySmith414/Automated-Compliance-Scanner">Automated Compliance Scanner</a>|
+| Compliance Reporting and Documentation        | <a href="https://github.com/RaySmith414/Automated-Compliance-Scanner">Automated Compliance Scanner</a>|
 
 ## Tools
 
