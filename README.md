@@ -1,57 +1,34 @@
 # Hello, I'm Rayshaun Smith
-<a href="https://www.linkedin.com/in/rayshaun-s-6927b4103/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Security, risk and compliance practitioner who writes code. Ten years in classified environments, now building toward AI systems people can trust.
 Compliance automation, detection engineering, on-device AI. Founder of ImọLab. MSE in Artificial Intelligence candidate, University of Pennsylvania.
 
-## Objective
+[Substack](https://chugram.substack.com) · [ORCID](https://orcid.org/0009-0008-5548-7510)
 
-With extensive experience in security operations and incident response, I am committed to advancing organizational security postures through proactive threat detection, SIEM optimization, and security automation. I aim to leverage my skills to protect critical assets and mentor the next generation of security professionals.
+## Focus
 
-## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/RaySmith414/Detection-Lab">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/RaySmith414/Detection-Lab">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | <a href="https://github.com/RaySmith414/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Incident Response Planning and Execution      | <a href="https://github.com/RaySmith414/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Case Management with TheHive                  | <a href="https://github.com/RaySmith414/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/RaySmith414/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Python Security Tool Development              | <a href="https://github.com/RaySmith414/Automated-Compliance-Scanner">Automated Compliance Scanner</a>|
-| CIS Benchmark and NIST 800-53 Compliance      | <a href="https://github.com/RaySmith414/Automated-Compliance-Scanner">Automated Compliance Scanner</a>|
-| Automated Security Assessment                 | <a href="https://github.com/RaySmith414/Automated-Compliance-Scanner">Automated Compliance Scanner</a>|
-| Compliance Reporting and Documentation        | <a href="https://github.com/RaySmith414/Automated-Compliance-Scanner">Automated Compliance Scanner</a>|
-
-## Tools
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## Certifications
-<div>
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
+- **Governance, risk and compliance:** NIST RMF, control validation, POA&M tracking and audit readiness
+- **Third-party risk:** vendor security reviews, SOC 2 and ISO 27001 report analysis
+- **Applied AI:** on-device inference, AI governance and AI security
+- **Security automation:** Python tooling for compliance checks, enrichment and response
 
 ## Projects
-- <a href="https://github.com/RaySmith414/Detection-Lab">Detection Lab</a>
-- <a href="https://github.com/RaySmith414/SOC-Automation-Lab">SOC Automation Lab</a>
-- <a href="https://github.com/RaySmith414/Automated-Compliance-Scanner">Automated Compliance Scanner</a>
+
+| Project | What it does | Status |
+| --- | --- | --- |
+| [Navy Eval Writer](https://apps.apple.com/us/app/navy-eval-writer/id6758175190) | iOS app that drafts Navy performance evaluations with on-device AI. Local-only storage and no data collection. | Live on the App Store |
+| [Eckleburg](https://eckleburg.io) | Dashboard that tracks 2026 cyber incidents with my analysis of each. An ImọLab project. | Live |
+| [Automated Compliance Scanner](https://github.com/RaySmith414/Automated-Compliance-Scanner) | Python scanner that checks Linux and Windows hosts against CIS Benchmarks and maps findings to NIST 800-53 controls. HTML, JSON and CSV reports. | Working |
+| [SOC Automation Lab](https://github.com/RaySmith414/SOC-Automation-Lab) | SOAR lab on Shuffle, TheHive, Cortex and Wazuh with response playbooks and IOC enrichment scripts. | In progress |
+| [Detection Lab](https://github.com/RaySmith414/Detection-Lab) | SIEM detection rules and attack simulation. | In progress |
+
+## Writing
+
+- *Breaking the Code: Thriving in the Era of Artificial Intelligence* (2023)
+
+## Education and certifications
+
+- MSE in Artificial Intelligence, University of Pennsylvania (in progress)
+- B.S. Computer Science, Lamar University (Cum Laude, McNair Scholar)
+- National Security Law and AI, Vista Institute for AI Policy (2026)
+- CISM · PMP · CompTIA Security+ · CompTIA Network+
