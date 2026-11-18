@@ -20,7 +20,7 @@ Compliance automation, detection engineering, on-device AI. Founder of ImọLab.
 | [Eckleburg](https://eckleburg.io) | Dashboard that tracks 2026 cyber incidents with my analysis of each. An ImọLab project. | Live |
 | [Automated Compliance Scanner](https://github.com/RaySmith414/Automated-Compliance-Scanner) | Read-only Python scanner that checks Linux and Windows hosts against CIS Benchmark recommendations and maps findings to NIST 800-53, SOC 2 and ISO 27001 controls. HTML, JSON, CSV and POA&M reports. | Working, tested in CI |
 | [SOC Automation Lab](https://github.com/RaySmith414/SOC-Automation-Lab) | Docker lab with Shuffle, TheHive and Cortex, set up through their APIs. Python tools for IOC extraction, threat intelligence lookups and guarded blocking, plus response playbooks. | Working, tested in CI |
-| [Detection Lab](https://github.com/RaySmith414/Detection-Lab) | SIEM detection rules and attack simulation. | In progress |
+| [Detection Lab](https://github.com/RaySmith414/Detection-Lab) | ELK and Suricata lab in Docker with an attack simulator and a log generator. 60 Sigma rules and 33 Suricata rules mapped to MITRE ATT&CK, each tested against attack samples and near misses. | Working, tested in CI |
 
 ## Writing
 
